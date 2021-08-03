@@ -1,0 +1,5 @@
+BG Music: https://maou.audio/bgm_8bit27/
+
+Life 1 Position 2, 5.7, -3
+Life 2 Position 2.4, 5.7, -3
+Life 3 Position 2.8, 5.7, -3
