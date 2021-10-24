@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// °ÔÀÓ ³» ¾ÆÀÌÅÛ Destroy
+// ê²Œì„ ë‚´ ì•„ì´í…œ Destroy
 public class ItemControll : MonoBehaviour
 {
     public GameManager GM;
